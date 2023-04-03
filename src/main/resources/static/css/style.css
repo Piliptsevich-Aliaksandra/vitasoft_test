@@ -1,0 +1,33 @@
+.right {
+    position:absolute;
+}
+
+a.first-btn {
+    margin-right:0.5rem;
+}
+
+a.last-btn {
+    margin-left:0.5rem;
+}
+
+li.btn-text {
+    padding-top:0.5rem;
+}
+
+.text-center {
+    text-align: center;
+}
+
+form.logout {
+    margin-bottom: 0;
+}
+
+.line {
+    position:relative;
+}
+
+.error {
+    clear: both;
+    color: red;
+    font-size: 0.75rem;
+}
